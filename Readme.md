@@ -34,4 +34,5 @@ mvn spring-boot:run
 
 You can find the tutorial for this application on my blog -
 
+j
 https://www.callicoder.com/spring-boot-websocket-chat-example/
